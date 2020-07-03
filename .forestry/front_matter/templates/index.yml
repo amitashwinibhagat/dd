@@ -1,0 +1,10 @@
+---
+label: Index
+hide_body: true
+fields:
+- type: text
+  name: type
+  label: type
+- type: boolean
+  name: headless
+  label: headless
